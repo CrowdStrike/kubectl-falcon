@@ -6,7 +6,7 @@ require (
 	github.com/containers/image/v5 v5.12.0
 	github.com/crowdstrike/gofalcon v0.0.0-20210201183550-10e0ebcd5c85
 	github.com/sirupsen/logrus v1.8.1
-	github.com/spf13/cobra v1.1.3
+	github.com/spf13/cobra v1.2.1
 	k8s.io/cli-runtime v0.22.0-alpha.3
 )
 
