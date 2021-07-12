@@ -7,7 +7,7 @@ require (
 	github.com/crowdstrike/gofalcon v0.0.0-20210201183550-10e0ebcd5c85
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.1.3
-	k8s.io/cli-runtime v0.22.0-alpha.3
+	k8s.io/cli-runtime v0.22.0-beta.1
 )
 
 replace (
